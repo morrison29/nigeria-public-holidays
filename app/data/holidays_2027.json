@@ -1,0 +1,58 @@
+{
+  "year": 2027,
+  "country": "Nigeria",
+  "status": "partial",
+  "source": "Calendar calculations; official announcements pending",
+  "last_updated": "2026-11-20",
+  "holidays": [
+    {
+      "name": "New Year's Day",
+      "date": "2027-01-01",
+      "type": "national",
+      "date_basis": "fixed",
+      "status": "estimated"
+    },
+    {
+      "name": "Good Friday",
+      "date": "2027-03-26",
+      "type": "religious",
+      "date_basis": "movable",
+      "status": "estimated"
+    },
+    {
+      "name": "Easter Monday",
+      "date": "2027-03-29",
+      "type": "religious",
+      "date_basis": "movable",
+      "status": "estimated"
+    },
+    {
+      "name": "Workers' Day",
+      "date": "2027-05-01",
+      "type": "national",
+      "date_basis": "fixed",
+      "status": "estimated"
+    },
+    {
+      "name": "Democracy Day",
+      "date": "2027-06-12",
+      "type": "national",
+      "date_basis": "fixed",
+      "status": "estimated"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2027-10-01",
+      "type": "national",
+      "date_basis": "fixed",
+      "status": "estimated"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2027-12-25",
+      "type": "religious",
+      "date_basis": "fixed",
+      "status": "estimated"
+    }
+  ]
+}

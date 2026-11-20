@@ -1,0 +1,23 @@
+{
+  "year": 2026,
+  "country": "Nigeria",
+  "status": "partial",
+  "source": "Federal Ministry of Interior",
+  "last_updated": "2026-11-20",
+  "holidays": [
+    {
+      "name": "New Year's Day",
+      "date": "2026-01-01",
+      "type": "national",
+      "date_basis": "fixed",
+      "status": "confirmed"
+    },
+    {
+      "name": "Good Friday",
+      "date": "2026-04-03",
+      "type": "religious",
+      "date_basis": "movable",
+      "status": "confirmed"
+    }
+  ]
+}
